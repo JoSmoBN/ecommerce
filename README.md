@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
 
 eCommerce Project - Part I
@@ -83,3 +84,6 @@ If you see a problem or a typo, please fork, make the necessary changes, and cre
 © DevMountain LLC, 2015. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to DevMountain with appropriate and specific direction to the original content.
 
 <img src="https://devmounta.in/img/logowhiteblue.png" width="250">
+=======
+# ecommerce
+>>>>>>> c01c80c7847c94f1d72b5951704181c5b9541f59
